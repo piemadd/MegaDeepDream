@@ -160,5 +160,5 @@ def make_frame(i, total_frames, num1, num2, noise_vector, path, start=0):
 if __name__ == '__main__':
     # generate_random_morph()
     while True:
-        generate_random_morph_sequence(0, True)
+        generate_random_morph_sequence(3, True)
     # generate_all_classes()
