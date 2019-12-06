@@ -1,0 +1,4 @@
+moviepy
+torch
+pytorch_pretrained_biggan
+numpy
